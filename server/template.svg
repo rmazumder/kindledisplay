@@ -12,15 +12,13 @@
   <line id="svg_1" stroke="rgb(0,0,0)" stroke-width="4" y2="120" x2="599" y1="120" x1="0"/>
   <line id="svg_1" stroke="rgb(0,0,0)" stroke-width="4" y2="690" x2="350" y1="300" x1="350"/>
   <line id="svg_1" stroke="rgb(0,0,0)" stroke-width="4" y2="690" x2="600" y1="690" x1="0"/>
-  <line id="svg_1" stroke="rgb(0,0,0)" stroke-width="4" y2="600" x2="350" y1="600" x1="0"/>
 
   <image x="70" y="700" width="430" height="100" xlink:href="assets/bismillah.png" />
   <image x="360" y="320" width="90" height="56" xlink:href="assets/dollar.png" /> 
-  <image x="360" y="400" width="90" height="45" xlink:href="assets/remitly.png" />
+<!--  <image x="360" y="400" width="90" height="45" xlink:href="assets/IST.png" />
   <image x="360" y="480" width="90" height="45" xlink:href="assets/wu.png" />
   <image x="360" y="560" width="90" height="45" xlink:href="assets/xoom.png" />
-  <image x="360" y="620" width="90" height="45" xlink:href="assets/ria.png" />
-  <image x="0" y="610" width="80" height="70" xlink:href="assets/message.png" />
+  <image x="360" y="620" width="90" height="45" xlink:href="assets/ria.png" /> -->
   
   <title>Weather</title>
   <g id="weather" font-family="DejaVu Sans">
@@ -28,32 +26,46 @@
 
    <text id="svg_276" text-anchor="start" x="43" y="75" font-size="60px">CITY</text>
    <text id="svg_4" text-anchor="start" x="47" y="108" font-size="20px">As of TIME</text>
-   <text id="svg_25" text-anchor="start" x="30" y="280" font-size="30px">STATUS LOW_ONE/HIGH_ONE°</text>
-   <text  font-size="70px" y="210" x="160" text-anchor="start" id="svg_9">CURR_TEMP°</text>
+   <text id="svg_25" text-anchor="start" x="30" y="280" font-size="30px">STATUS LOW_ONE/HIGH_ONEÂ°</text>
+   <text  font-size="70px" y="210" x="160" text-anchor="start" id="svg_9">CURR_TEMPÂ°</text>
    
 
 
-   <text id="svg_25" text-anchor="start"  x="370" y="155" font-size="30px">F1°</text>
-   <text id="svg_25" text-anchor="start"  x="370" y="195" font-size="30px">F2°</text>
-   <text id="svg_25" text-anchor="start"  x="370" y="235" font-size="30px">F3°</text>
-   <text id="svg_25" text-anchor="start"  x="370" y="275" font-size="30px">F4°</text>
+   <text id="svg_25" text-anchor="start"  x="370" y="155" font-size="30px">F1Â°</text>
+   <text id="svg_25" text-anchor="start"  x="370" y="195" font-size="30px">F2Â°</text>
+   <text id="svg_25" text-anchor="start"  x="370" y="235" font-size="30px">F3Â°</text>
+   <text id="svg_25" text-anchor="start"  x="370" y="275" font-size="30px">F4Â°</text>
       
 
 
    <text id="svg_25" text-anchor="start" font-weight="bold" x="10" y="340" font-size="20px">HIZRA</text>
-   <text id="svg_25" text-anchor="start" font-weight="bold" x="30" y="380" font-size="30px">Fajr</text><text id="svg_25" text-anchor="start" font-weight="bold" x="180" y="380" font-size="30px">FAJR</text>
-   <text id="svg_25" text-anchor="start" font-weight="bold" x="30" y="420" font-size="30px">Sunrise</text><text id="svg_25" text-anchor="start" font-weight="bold" x="180" y="420" font-size="30px">SUNR</text>
-   <text id="svg_25" text-anchor="start" font-weight="bold" x="30" y="460" font-size="30px">Duhr</text><text id="svg_25" text-anchor="start" font-weight="bold" x="180" y="460" font-size="30px">DUHR</text>  
-   <text id="svg_25" text-anchor="start" font-weight="bold" x="30" y="500" font-size="30px">Asr</text><text id="svg_25" text-anchor="start" font-weight="bold" x="180" y="500" font-size="30px">ASR</text>
-   <text id="svg_25" text-anchor="start" font-weight="bold" x="30" y="540" font-size="30px">Magrib</text><text id="svg_25" text-anchor="start" font-weight="bold" x="180" y="540" font-size="30px">MAGRIB</text>
-   <text id="svg_25" text-anchor="start" font-weight="bold" x="30" y="580" font-size="30px">Isha</text><text id="svg_25" text-anchor="start" font-weight="bold" x="180" y="580" font-size="30px">ISHA</text>
+   
+   <text id="svg_25" text-anchor="start" font-weight="bold" x="30" y="380" font-size="20px">Fajr</text>
+   <text id="svg_25" text-anchor="start" font-weight="bold" x="120" y="380" font-size="50px">FAJR</text>
+   
+   <text id="svg_25" text-anchor="start" font-weight="bold" x="30" y="440" font-size="20px">Sunrise</text>
+   <text id="svg_25" text-anchor="start" font-weight="bold" x="120" y="440" font-size="50px">SUNR</text>
+   
+   <text id="svg_25" text-anchor="start" font-weight="bold" x="30" y="500" font-size="20px">Duhr</text>
+   <text id="svg_25" text-anchor="start" font-weight="bold" x="120" y="500" font-size="50px">DUHR</text>  
+   
+   <text id="svg_25" text-anchor="start" font-weight="bold" x="30" y="560" font-size="20px">Asr</text>
+   <text id="svg_25" text-anchor="start" font-weight="bold" x="120" y="560" font-size="50px">ASR</text>
+   
+   <text id="svg_25" text-anchor="start" font-weight="bold" x="30" y="620" font-size="20px">Magrib</text>
+   <text id="svg_25" text-anchor="start" font-weight="bold" x="120" y="620" font-size="50px">MAGRIB</text>
+   
+   <text id="svg_25" text-anchor="start" font-weight="bold" x="30" y="680" font-size="20px">Isha</text>
+   <text id="svg_25" text-anchor="start" font-weight="bold" x="120" y="680" font-size="50px">ISHA</text>
    <!--<text id="svg_25" text-anchor="start" x="30" y="620" font-size="20px">Next appointment 21 May@12:30</text>-->
 
    <text id="svg_25" text-anchor="start" font-weight="bold" x="460" y="350" font-size="30px">CURRATE</text>
-   <text id="svg_25" text-anchor="start" font-weight="bold" x="460" y="430" font-size="30px">REMITLY</text>
-   <text id="svg_25" text-anchor="start" font-weight="bold" x="460" y="510" font-size="30px">WU</text>
+   <text id="svg_25" text-anchor="start" x="360" y="420" font-size="25px">India time now :</text>
+   <text id="svg_25" text-anchor="start" font-weight="bold" x="360" y="460" font-size="45px">IST</text>
+   <text id="svg_25" text-anchor="start" x="360" y="490" font-size="25px">IND_WKDAY</text> 
+   <!--<text id="svg_25" text-anchor="start" font-weight="bold" x="460" y="510" font-size="30px">WU</text>
    <text id="svg_25" text-anchor="start" font-weight="bold" x="460" y="590" font-size="30px">XOOM</text>
-   <text id="svg_25" text-anchor="start" font-weight="bold" x="460" y="660" font-size="30px">RIA</text>
+   <text id="svg_25" text-anchor="start" font-weight="bold" x="460" y="660" font-size="30px">RIA</text>-->
 
 
    
