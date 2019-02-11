@@ -1,4 +1,4 @@
-# kindle Weather Display
+# Kindle Weather Display
 
 Prerequisite :
 Root kindle and install kite or usbnet using the following link
