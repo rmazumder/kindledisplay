@@ -1,6 +1,6 @@
 # Kindle Weather Display
 
-Prerequisite :
+### Prerequisites
 Root kindle and install kite or usbnet using the following link
 https://www.galacticstudios.org/kindle-weather-display/
 
