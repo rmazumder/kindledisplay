@@ -1,0 +1,9 @@
+*/5 * * * * /home/pi/weather-server/launch.sh
+#* * * * * /home/pi/weather-server/launchwithdate.sh
+* * * * * sleep 00; /home/pi/weather-server/launchwithdate.sh
+* * * * * sleep 10; /home/pi/weather-server/launchwithdate.sh
+* * * * * sleep 20; /home/pi/weather-server/launchwithdate.sh
+* * * * * sleep 35; /home/pi/weather-server/launchwithdate.sh
+* * * * * sleep 40; /home/pi/weather-server/launchwithdate.sh
+* * * * * sleep 50; /home/pi/weather-server/launchwithdate.sh
+*/30 * * * * python /home/pi/weather-server/yahooapi.py > /home/pi/weather-server/yahooapi_response
