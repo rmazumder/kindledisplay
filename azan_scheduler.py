@@ -22,19 +22,19 @@ app_log.addHandler(my_handler)
 
 
 def fazr():
-    os.system("mocp -playit -v 100 /home/pi/azan1.mp3")
+    os.system("mocp -v 100 --playit /home/pi/azan1.mp3")
 
 def duhr():
-    os.system("mocp -playit -v 100 /home/pi/azan1.mp3")
+    os.system("mocp -v 100 --playit /home/pi/azan1.mp3")
 
 def asr():
-     os.system("mocp -playit -v 100 /home/pi/azan1.mp3")
+    os.system("mocp -v 100 --playit /home/pi/azan1.mp3")
 
 def magrib():
-     os.system("mocp -playit -v 100 /home/pi/azan1.mp3")
+    os.system("mocp -v 100 --playit /home/pi/azan1.mp3")
 
 def isha():
-     os.system("mocp -playit -v 100 /home/pi/azan1.mp3")
+    os.system("mocp -v 100 --playit /home/pi/azan1.mp3")
 
 
 
